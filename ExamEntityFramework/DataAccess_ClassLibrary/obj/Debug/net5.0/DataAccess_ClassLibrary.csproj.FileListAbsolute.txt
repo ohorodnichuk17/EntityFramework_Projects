@@ -1,0 +1,15 @@
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\bin\Debug\net5.0\DataAccess_ClassLibrary.deps.json
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\bin\Debug\net5.0\DataAccess_ClassLibrary.runtimeconfig.json
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\bin\Debug\net5.0\DataAccess_ClassLibrary.runtimeconfig.dev.json
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\bin\Debug\net5.0\DataAccess_ClassLibrary.dll
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\bin\Debug\net5.0\DataAccess_ClassLibrary.pdb
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.csproj.AssemblyReference.cache
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.AssemblyInfoInputs.cache
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.AssemblyInfo.cs
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.csproj.CoreCompileInputs.cache
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.dll
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\refint\DataAccess_ClassLibrary.dll
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.pdb
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\DataAccess_ClassLibrary.genruntimeconfig.cache
+D:\source\repos\ExamEntityFramework\DataAccess_ClassLibrary\obj\Debug\net5.0\ref\DataAccess_ClassLibrary.dll
